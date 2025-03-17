@@ -1,10 +1,11 @@
 # CAD-Image-Protection-Using-Blockchain-Technology
 
-Project Overview
+Project Overview:
 
 The CAD Integrity Checker is a security-focused application designed to enhance the protection of CAD drawings against unauthorized modifications. This system leverages blockchain technology and cryptographic algorithms to ensure the integrity of DWG files used in engineering and architectural designs.
 
-Key Features
+
+Key Features:
 
 Blockchain-Based Security: Ensures that CAD drawings remain tamper-proof by recording their hashes on a decentralized ledger.
 
@@ -32,7 +33,8 @@ CAD File Handling: DWG file processing with relevant libraries
 
 Frontend: Basic UI for verification and status tracking
 
-Future Enhancements
+
+Future Enhancements:
 
 Smart Contract Implementation for direct integration with CAD software.
 
