@@ -23,11 +23,7 @@ Technology Stack
 
 Programming Languages: Python
 
-Blockchain Platform: Ethereum (or any lightweight blockchain for recording hashes)
-
-Database: SQLite / PostgreSQL (for metadata storage)
-
-Cryptographic Algorithms: SHA-256 / SHA-3 for hashing
+Cryptographic Algorithms: SHA-256 
 
 CAD File Handling: DWG file processing with relevant libraries
 
